@@ -3,7 +3,7 @@
 
 **hwanclin/hwanclin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Please visit https:hwanclin.github.io for more details about my shcolarship.
+Please visit my [Github website](https://hwanclin.github.io) for more details about me.
 
 - I am a full professor of economics & mathematical Finance at UNC-Charlotte. 
 - As a computational economist, I've focused research on innovation, finance, growth, and macroeconomic dynamics.
